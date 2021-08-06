@@ -36,7 +36,7 @@ Let's create a `fluentd` namespace: <br/>
 kubectl create ns fluentd
 
 ```
-## Fluentd Configmapuentd 
+## Fluentd Configmap 
 
 We have 4 files in our `fluentd-configmap.yaml` :
 * fluent.conf: Our main config which includes all other configurations
